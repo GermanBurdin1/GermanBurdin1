@@ -18,11 +18,9 @@ full-stack à Metz Numeric School et je cherche activement une alternance.
 
 ![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg)
 
-🔭 J'ai participé au bootcamp de l'École 21 de Sberbank.
+⚡ Je suis un étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile).
 
 🌱 J'ai terminé les cours de développement web de [HTML Academy](https://github.com/htmlacademy) !
-
-⚡ Je suis un étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile).
 
 📫 Comment me contacter : [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/33675738495) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanburdin1@gmail.com)
 
@@ -34,7 +32,15 @@ full-stack à Metz Numeric School et je cherche activement une alternance.
 
 
 💻 Technologies :
-Git HTML5 CSS JavaScript ReactJS NodeJS Express MongoDB C SASS/SCSS Webpack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 🛠 Outils :
 DaVinci Resolve Photoshop Canva Figma YouTube Raspberry Pi Linux Notion
