@@ -26,7 +26,9 @@ full-stack à Metz Numeric School et je cherche activement une alternance.
 📫 Comment me contacter : Badge Telegram Badge Gmail
 
 🤝 Réseaux sociaux :
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/GermanBurdin1/GermanBurdin1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ваш-username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](ссылка на ваш Telegram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](ссылка на ваш LinkedIn)
 
 
 💻 Technologies :
