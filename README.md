@@ -15,7 +15,7 @@ programmation avancés.
 En ce moment je suis une formation de développement web en
 full-stack à Metz Numeric School et je cherche activement une alternance. 
 
-![Змейка GitHub](https://raw.githubusercontent.com/GermanBurdin1/snake/main/snake.svg)
+![Змейка GitHub](https://github.com/GermanBurdin1/snake/blob/main/snake.svg?raw=true)
 
 🔭 J'ai participé au bootcamp de l'École 21 de Sberbank.
 
