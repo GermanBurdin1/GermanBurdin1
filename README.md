@@ -15,9 +15,7 @@ programmation avancés.
 En ce moment je suis une formation de développement web en
 full-stack à Metz Numeric School et je cherche activement une alternance. 
 
- <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
-  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
-  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg)
 
 🔭 J'ai participé au bootcamp de l'École 21 de Sberbank.
 
