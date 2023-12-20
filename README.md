@@ -43,4 +43,7 @@ full-stack à Metz Numeric School et je cherche activement une alternance.
 
 
 🛠 Outils :
-DaVinci Resolve Photoshop Canva Figma YouTube Raspberry Pi Linux Notion
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+
