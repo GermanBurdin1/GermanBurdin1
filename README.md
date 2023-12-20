@@ -20,7 +20,7 @@ full-stack à Metz Numeric School et je cherche activement une alternance.
 
 🔭 J'ai participé au bootcamp de l'École 21 de Sberbank.
 
-🌱 J'ai terminé les cours de développement web de [![HTML Academy](https://avatars.githubusercontent.com/u/6252385?s=200&v=1)](https://github.com/htmlacademy) !
+🌱 J'ai terminé les cours de développement web de [![HTML Academy](https://avatars.githubusercontent.com/u/6252385?s=200&v=4)](https://github.com/htmlacademy) !
 
 ⚡ Je suis un étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile).
 
