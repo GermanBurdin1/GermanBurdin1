@@ -1,4 +1,5 @@
 Salut, je m'appelle German !
+
 👨‍💻 À propos de moi :
 
 Mon intérêt pour le web a été suscité lors de mon initiation au langage SQL en
@@ -19,11 +20,12 @@ full-stack à Metz Numeric School et je cherche activement une alternance.
 
 🔭 J'ai participé au bootcamp de l'École 21 de Sberbank.
 
-🌱 J'ai terminé les cours de développement web de Yandex Praktikum !
+🌱 J'ai terminé les cours de développement web de [HTML Academy](https://github.com/htmlacademy) !
 
-⚡ Je suis un étudiant avancé dans le cours de développement web de Yandex Praktikum.
+⚡ Je suis un étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile).
 
-📫 Comment me contacter : Badge Telegram Badge Gmail
+📫 Comment me contacter : [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](ссылка на ваш WhatsApp) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш_email)
+
 
 🤝 Réseaux sociaux :
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/GermanBurdin1)
