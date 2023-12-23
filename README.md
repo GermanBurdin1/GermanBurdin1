@@ -16,7 +16,7 @@ programmation avancés. <br>
 En ce moment je suis une formation de développement web en
 full-stack à Metz Numeric School et **je cherche activement une alternance**. 
 
-![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br><br><br>
+![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br>
 
 ⚡ Je suis étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile). <br><br>
 
