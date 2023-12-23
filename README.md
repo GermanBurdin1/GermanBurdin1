@@ -12,9 +12,9 @@ Après cette expérience enrichissante, j’ai eu l’opportunité de me consacr
 pleinement à une formation approfondie du 17 janvier au 26 octobre 2023. Cette
 formation m’a permis d'acquérir des compétences essentielles en développement
 web, notamment en HTML, CSS, JavaScript, ainsi que dans des concepts de
-programmation avancés. 
+programmation avancés. <br>
 En ce moment je suis une formation de développement web en
-full-stack à Metz Numeric School et je cherche activement une alternance. 
+full-stack à Metz Numeric School et **je cherche activement une alternance**. 
 
 ![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br><br><br>
 
