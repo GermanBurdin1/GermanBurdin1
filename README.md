@@ -1,6 +1,6 @@
 Salut, je m'appelle German !
 
-👨‍💻 À propos de moi :
+👨‍💻 À mon propos :
 
 Mon intérêt pour le web a été suscité lors de mon initiation au langage SQL en
 octobre 2021, à travers une formation en ligne sur Data Analytics. 
@@ -16,13 +16,13 @@ programmation avancés.
 En ce moment je suis une formation de développement web en
 full-stack à Metz Numeric School et je cherche activement une alternance. 
 
-![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg)
+![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br>
 
-⚡ Je suis étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile).
+⚡ Je suis étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile). <br>
 
-🌱 J'ai terminé les cours de développement web de [HTML Academy](https://github.com/htmlacademy) !
+🌱 J'ai terminé les cours de développement web de [HTML Academy](https://github.com/htmlacademy) ! <br>
 
-📫 Comment me contacter : [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/33675738495) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanburdin1@gmail.com)
+📫 Comment me contacter : [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/33675738495) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanburdin1@gmail.com) <br>
 
 
 🤝 Réseaux sociaux :
@@ -42,8 +42,7 @@ full-stack à Metz Numeric School et je cherche activement une alternance.
 |  | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |  |
 |  | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) |  |
 |  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |  |
-
-
+<br>
 
 
 🛠 Outils :
