@@ -17,20 +17,20 @@ En ce moment je suis une formation de développement web en
 full-stack à Metz Numeric School et **je cherche activement une alternance**. 
 
 ![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br>
-
+______________________________________________________
 ⚡ Je suis étudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile). <br><br>
-
+__________________________________________________
 🌱 J'ai terminé les cours de développement web de [HTML Academy](https://github.com/htmlacademy) ! <br><br>
-
+_________________________
 📫 Comment me contacter : [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/33675738495) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanburdin1@gmail.com) <br><br>
 
-
+___________________
 🤝 Réseaux sociaux :
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/GermanBurdin1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-burdin) <br><br>
 
-
+________________
 💻 Technologies : <br> 
 | Back-End      | Front-End      | Autre      |
 |---------------|----------------|------------|
@@ -44,6 +44,7 @@ full-stack à Metz Numeric School et **je cherche activement une alternance**.
 |  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |  | 
 
 <br><br>
+_________
 🛠 Outils :
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
