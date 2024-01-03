@@ -13,7 +13,8 @@ pleinement à une formation approfondie du 17 janvier au 26 octobre 2023. Cette
 formation m’a permis d'acquérir des compétences essentielles en développement
 web, notamment en HTML, CSS, JavaScript, ainsi que dans des concepts de
 programmation avancés. <br>
-Actuellement, je participe à une formation en développement web full-stack à Metz Numeric School, qui mènera à un BAC+2. Je suis également **à la recherche active d'un poste en alternance pour ma troisième année d'études**.
+
+Je suis actuellement en formation de développement web à Metz Numeric School, un cursus qui aboutira à un diplôme équivalent à un BAC+2. Parallèlement, je **recherche activement une opportunité en alternance pour poursuivre un Bachelor en Développement Full Stack**.
 
 ![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br>
 
