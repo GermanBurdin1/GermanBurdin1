@@ -21,15 +21,14 @@ Actuellement, je participe à une formation en développement web full-stack à 
 ⚡ Etudiant en formation à Metz Numéric School [MNS](https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile). <br><br>
 __________________________________________________
 🌱 J'ai terminé les cours de développement web de [HTML Academy](https://github.com/htmlacademy) ! <br><br>
-_________________________
-📫 Comment me contacter : <br><br>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/33675738495) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanburdin1@gmail.com) <br><br>
 
 ___________________
 🤝 Réseaux sociaux : <br><br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/GermanBurdin1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-burdin) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Germanburdin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-burdin) <br><br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/33675738495) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:germanburdin1@gmail.com) 
+<br><br>
 
 ________________
 💻 Technologies : <br> 
