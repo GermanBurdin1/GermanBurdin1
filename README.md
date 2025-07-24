@@ -14,7 +14,6 @@ formation m’a permis d'acquérir des compétences essentielles en développeme
 web, notamment en HTML, CSS, JavaScript, ainsi que dans des concepts de
 programmation avancés. <br>
 
-Je suis actuellement en formation de développement web à Metz Numeric School, un cursus qui aboutira à un diplôme équivalent à un BAC+2. Parallèlement, je **recherche activement une opportunité en alternance pour poursuivre un Bachelor en Développement Full Stack**.
 
 ![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br>
 
