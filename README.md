@@ -1,5 +1,59 @@
 Salut, je m'appelle German ! Je cherche un CDI dans le Développement Web, mobile ou d'application dans les Côtes d'Armor.
 
+# Projet sur lequel je travaille actuellement
+
+## Plateforme d’apprentissage des langues — Architecture Microservices
+
+Projet en cours : une plateforme **d’e-learning linguistique** bâtie sur une **architecture microservices**.  
+Le **front-end** est développé en **Angular** et le **back-end** est découpé en plusieurs services NestJS spécialisés (authentification, gestion des leçons, vocabulaire, fichiers, notifications, statistiques, etc.), chacun étant **isolé**, **testable** et **déployable indépendamment**.  
+Les déploiements sont facilités par l’utilisation de **migrations par service** et d’une CI/CD à granularité fine.
+
+---
+
+## Stack technique
+
+- **Front-end** : Angular (CLI 18.x), SPA typée TypeScript  
+- **Back-end** : NestJS (TypeScript) avec TypeORM et PostgreSQL  
+- **Base de données** : PostgreSQL (migrations gérées par chaque microservice)  
+- **Tests** : Unitaires et e2e (dossier `test/` dans chaque service)  
+- **Architecture** : Microservices REST indépendants, communication via API HTTP  
+- **Supervision** : Application Java/Spring Boot pour la gestion interne et le suivi de l’activité
+
+---
+
+## Services principaux
+
+- **Front-end** : [teach_lang_app](https://github.com/GermanBurdin1/teach_lang_app) — Application Angular pour les apprenants et enseignants  
+- **Authentification** : [dede-auth-service](https://github.com/GermanBurdin1/dede-auth-service) — Authentification, gestion des utilisateurs, confirmation d’email  
+- **Gestion des leçons** : [lesson-service](https://github.com/GermanBurdin1/lesson-service) — CRUD et règles métier pour les leçons  
+- **Vocabulaire** : [vocabulary-service](https://github.com/GermanBurdin1/vocabulary-service) — Gestion des mots, listes et progression  
+- **Fichiers** : [file-service](https://github.com/GermanBurdin1/file-service) — Téléversement et gestion des ressources pédagogiques  
+- **Notifications** : [notification-service](https://github.com/GermanBurdin1/notification-service) — Envoi et suivi des notifications (email, etc.)  
+- **Statistiques** : [statistics_lang](https://github.com/GermanBurdin1/statistics_lang) — Collecte d’événements et indicateurs d’usage  
+- **Divers (WIP)** : [mm_service](https://github.com/GermanBurdin1/mm_service) — Service technique en cours de développement
+
+---
+
+## Outil de supervision (Java / Spring Boot)
+
+Projet connexe **EMS** pour permettre aux managers et autres acteurs de suivre l’activité liée à la plateforme :  
+➡️ [esm](https://github.com/GermanBurdin1/esm) — Application **Java 21**, **Spring Boot 3.2.1**, **PostgreSQL**, avec documentation Swagger/OpenAPI et orchestration via Docker Compose.
+
+---
+
+## Aperçu architectural
+
+```plaintext
+[ Front-End Angular ]  --->  [ Auth Service ]       --->  [ PostgreSQL ]
+                           |  [ Lesson Service ]    --->  [ PostgreSQL ]
+                           |  [ Vocabulary Service ]--->  [ PostgreSQL ]
+                           |  [ File Service ]      --->  [ PostgreSQL ]
+                           |  [ Notification Service]
+                           |  [ Statistics Service ]
+                           |  [ mm_service (WIP) ]
+                           |
+                         [ Application EMS - Java/Spring Boot ]
+
 👨‍💻 À mon propos :
 
 Mon intérêt pour le web a été suscité lors de mon initiation au langage SQL en
