@@ -53,8 +53,8 @@ Projet connexe **EMS** pour permettre aux managers et autres acteurs de suivre l
                            |  [ mm_service (WIP) ]
                            |
                          [ Application EMS - Java/Spring Boot ]
-
 ---
+
 👨‍💻 À mon propos :
 
 Mon intérêt pour le web a été suscité lors de mon initiation au langage SQL en
