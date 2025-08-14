@@ -53,6 +53,7 @@ Projet connexe **EMS** pour permettre aux managers et autres acteurs de suivre l
                            |  [ mm_service (WIP) ]
                            |
                          [ Application EMS - Java/Spring Boot ]
+```
 ---
 
 👨‍💻 À mon propos :
