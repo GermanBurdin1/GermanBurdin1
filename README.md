@@ -1,4 +1,6 @@
-Salut, je m'appelle German ! Je cherche un CDI dans le Développement Web, mobile ou d'application dans les Côtes d'Armor.
+# **Salut, je m'appelle German ! Je cherche un CDI dans le Développement Web, mobile ou d'application dans les Côtes-d'Armor.**
+
+![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br>
 
 # Projet sur lequel je travaille actuellement
 
@@ -94,9 +96,6 @@ pleinement à une formation approfondie du 17 janvier au 26 octobre 2023. Cette
 formation m’a permis d'acquérir des compétences essentielles en développement
 web, notamment en HTML, CSS, JavaScript, ainsi que dans des concepts de
 programmation avancés. <br>
-
-
-![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br>
 
 ---
 ⚡ Etudiant en formation à Metz Numéric School Bachelor Développeur full stack en présentiel [MNS]([https://www.metz-numeric-school.fr/fr/formations/developpement-informatique/developpeur-web-et-web-mobile](https://www.metz-numeric-school.fr/formations/developpement-informatique/bachelor-developpeur-full-stack-et-alternance-1-an/). <br><br>
