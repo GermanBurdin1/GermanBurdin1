@@ -56,6 +56,31 @@ Projet connexe **EMS** pour permettre aux managers et autres acteurs de suivre l
 ```
 ---
 
+# Projet que j’ai réalisé pour un client — Globevert
+
+Ce projet est une boutique en ligne développée sur la base d’**OpenCart** et personnalisée pour répondre aux besoins spécifiques du client **Globevert**.  
+J’ai travaillé sur l’intégration, la personnalisation du thème et des modules, ainsi que sur la configuration complète du CMS e-commerce.
+
+## Objectifs et fonctionnalités
+- **Mise en place d’OpenCart** : installation, configuration et optimisation
+- **Personnalisation du thème** : adaptation du design en accord avec l’identité visuelle du client
+- **Modules sur mesure** : ajout et paramétrage de fonctionnalités spécifiques
+- **Optimisation UX** : amélioration de la navigation et de l’expérience utilisateur
+- **Configuration complète du catalogue** : catégories, produits, options et méthodes de paiement/livraison
+
+## Stack technique
+- **CMS** : OpenCart (PHP, MVC, Twig)
+- **Langages** : PHP, HTML5, CSS3, JavaScript, jQuery
+- **Base de données** : MySQL
+- **Déploiement** : configuration serveur et mise en ligne
+
+## Déploiement
+Le site est **en production** et accessible à l’adresse suivante :  
+➡️ **[https://www.globevert.com/](https://www.globevert.com/)**
+
+---
+
+
 👨‍💻 À mon propos :
 
 Mon intérêt pour le web a été suscité lors de mon initiation au langage SQL en
