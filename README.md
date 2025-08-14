@@ -1,4 +1,4 @@
-# **Salut, je m'appelle German ! Je cherche un CDI dans le Développement Web, mobile ou d'application dans les Côtes-d'Armor.**
+# **Salut, je m'appelle German ! Je cherche un CDI dans le Développement Web, mobile ou d'application en Bretagne.**
 
 ![Dynamic Snake SVG](https://raw.githubusercontent.com/GermanBurdin1/snake/master/snake.svg) <br><br>
 
